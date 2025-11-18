@@ -11,6 +11,8 @@ A scalable, real-time Twitter-like feed backend system built with Go, implementi
 - [API Endpoints](#api-endpoints)
 - [Technologies](#technologies)
 - [Configuration](#configuration)
+- [Testing the System](#testing-the-system)
+- [Troubleshooting](#troubleshooting)
 
 ## Features
 
